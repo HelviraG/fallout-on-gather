@@ -1,0 +1,12 @@
+{
+    "name": "fallout-on-gather",
+    "displayName": "fallout-on-gather",
+    "description": "A gallery repository of assets made for Gather!",
+    "version": "0.0.1",
+    "publisher": "HelviraG",
+    "repository": {
+        "type": "git",
+        "url": ""
+    },
+    "homepage": ""
+}
