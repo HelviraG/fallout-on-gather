@@ -15,7 +15,6 @@
 <p align="center" style="color: purple; font-weight: 800; font-size: 26px; font-style: italic; margin-bottom: 1em">Let's gather together</p>
 
 <div style="display: flex; flex-direction: row; gap: 2px">
-
 <p>
 
 [![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20SHOWTIME!-1e90ff.svg?&label=🍿&labelColor=1e90ff)](https://app.gather.town/app/72fL7qdg90D8UjT8/gather-item-market)
@@ -73,8 +72,8 @@
     </tbody>
 <table>
 
-<div style="margin-top: 4em; margin-bottom: 3em"><img src="./src/assets/read-me-page/matrix-pill-choice.gif"></div>
-<details>
+<div style="margin-top: 4em; margin-bottom: 3em; max-width: 80%; margin: 0 auto"><img src="./src/assets/read-me-page/matrix-pill-choice.gif"></div>
+<details style="text-align: center; margin-top: 2em">
 <summary>Je ne peux pas, j'ai piscine!</summary>
 <p align="center" style="font-weight: bold; font-style: italic; margin-top: 4em">
 For the busy ones
@@ -111,7 +110,7 @@ The folder follows this structure:
 </blockquote>
 </details>
 
-<details style="margin-top: 2em; margin-bottom: 2em">
+<details style="margin-top: 2em; margin-bottom: 2em; text-align: center">
 <summary> Bring it on, I have time for this!</summary>
 <p align="center" style="font-weight: bold; font-style: italic; margin-top: 40px">
 For the patient ones
