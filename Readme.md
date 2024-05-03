@@ -3,11 +3,11 @@
 
 
 <p>
-  <img width="100%" src="src/assets/fallout-the-gather-background.png">
+  <img width="100%" src="src/assets/read-me-page/fallout-the-gather-background.png">
 </p>
 
 <p align="center" style="z-index: 1200">
-    <img width="80%" height="auto" src="src/assets/fallout-on-gather.png" style="margin-bottom: 16px; margin-top: -3.5em" />
+    <img width="80%" height="auto" src="src/assets/read-me-page/fallout-on-gather.png" style="margin-bottom: 16px; margin-top: -3.5em" />
 </p>
 
 <div style="padding: 50px; margin-top: -3.5em">
@@ -61,7 +61,7 @@
     <tbody>
         <tr>
             <td style="border: none">
-              <img width="3000px" src="src/assets/fallout-beep-bop.jpg">
+              <img width="3000px" src="src/assets/read-me-page/fallout-beep-bop.jpg">
             </td>
             <td style="border: 1px solid #7809A4; padding: 20px">
                 Nothing needed, feel free to fork this repo if you wnant to have all the assets on you computer and don't hesitate to contribute to this repository with your own creations 
@@ -80,7 +80,7 @@
 For the busy ones
 </p>
 <p align="center">
-  <img width="40%" src="src/assets/gif-patience.gif">
+  <img width="40%" src="src/assets/read-me-page/gif-patience.gif">
 </p>
 
   ###### 1. Copy paste the desired item directly on the map with copy pasting it 
