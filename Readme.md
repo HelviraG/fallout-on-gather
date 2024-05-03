@@ -104,113 +104,167 @@ For the patient ones
 
 <p style="background-color: rgba(255, 107, 129, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 30px; position: relative"><span style="background-color: white; border: 5px solid rgba(255, 107, 129, 0.9); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">🪛</span>This section is truly about the fun that can be done on Gather with few tricks !</p>
 
+<div with="100%" style="margin: 4em"></div>
+
 #### Items Customization
 
 <blockquote style="background-color: transparent; border-left: 6px solid #ff4757; font-style: italic; margin-top: 20px; margin-bottom: 3em">
-<p style="margin-bottom: 2px; text-decoration: underline; color: #ff4757">Side note:</p> <p style="font-weight: bold">You can download here the oeverall design guideline made by the Gather team
+  <p style="margin-bottom: 2px; text-decoration: underline; color: #ff4757">Side note:</p> <p style="font-weight: bold">You can download here the oeverall design guideline made by the Gather team
 
-[👉 Check out their public map making repository](#library)
-</p>
+  [👉 Check out their public map making repository](#library)
+  </p>
 </blockquote>
 
-   <details>
-   <summary>🐰 Any pet you want !</summary>
-
-   <img src="./src/assets/gatheer-pets.png">
-   [ x ] Requirements
-
-  <table align="center">
-    <tbody>
-      <tr>
-        <td>
+<details open>
+  <summary>🐰 Any pet you want !</summary>
+  <section>
+    <img src="./src/assets/gatheer-pets.png">
+  </section>
+  <section style="display: flex; flex-direction: row; margin-top: 2em">
+    <section style="width: 30%">
+      <p>
+        <p style="border-top: transparent; border-left: transparent; border-right: transparent"></p>
+        <p style="font-weight: 700">
           Element
-        </td>
-        <td>
+        </p>
+        <p style="font-weight: 700">
           Specifications
-        </td>
-      </tr>
-      <tr>
-        <td>
+        </p>
+        <p style="font-weight: 700">
           Grid (px)
-        </td>
-        <td>
-          128x160
-        </td>
-      </tr>
-      <tr>
-        <td>
+        </p style="font-weight: 700">
+        <p style="font-weight: 700">
           Frames (n°)
-        </td>
-        <td>
-          16
-        </td>
-      </tr>
-      <tr>
-        <td>
+        </p>
+        <p style="font-weight: 700">
           Format
-        </td>
-        <td>
-          .png
-        </td>
-      </tr>
-            <tr>
-        <td>
+        </p>
+        <p style="font-weight: 700">
           Custom sprite sheet: 
-        </td>
-        <td>
-          5 rows with 4 frames per row: idle, walk east, walk south, walk west, walk north
-        </td>
-      </tr>
-            <tr>
-        <td>
+        </p>
+        <p style="font-weight: 700">
           Custom normal image
-        </td>
-        <td>
-          Sprite sheet (or single image) for when the pet is not actively following anyone. If you do not upload a custom normal image, the idle sprites from the Custom sprite sheet are used
-        </td>
-      </tr>
-    </tbody>
-  <table>       
-<p></p>
-   </details>
-
-   <details>
-    <summary>🚗 Kart and Furious</summary>   
-     <table>
-    <tbody>
-      <tr>
-        <td>
-          Element
-        </td>
-        <td>
-          Specifications
-        </td>
-      </tr>
-      <tr>
-        <td>
-          Grid (px)
-        </td>
-        <td>
-          512x32
-        </td>
-      </tr>
-      <tr>
-        <td>
-           Frames (n°)
-        </td>
-        <td>
+        </p>
+      </p>
+      </section>
+      <section style=""></section>
+      <sections style="margin-left: 50px">
+      <p>
+        <p>
+          128x160
+        </p>
+        <p>
           16
-        </td>
-      </tr>
-    </tbody>
-  <table>       
-    </details>
+        </p>
+        <p>
+          .png
+        </p>
+        <p>
+          5 rows with 4 frames per row: idle, walk east, walk south, walk west, walk north
+        </p>
+        <p>
+          Sprite sheet (or single image) for when the pet is not actively following anyone. If you do not upload a custom normal image, the idle sprites from the Custom sprite sheet are used
+        </p>
+      </p>
+      </section>
+      </section>
+      <section>
+        <blockquote style="background-color: transparent; border-left: 6px solid #ff4757; font-style: italic; margin-top: 20px; margin-bottom: 3em">
+          <p style="margin-bottom: 2px; text-decoration: underline; color: #ff4757">Side note:</p> <p style="font-weight: bold">Be careful when creating your own spridesheet to make share you respect strictly the frame order (see below examples)
+          </p>
+          <section style="display: flex; flex-direction: row; margin-top: 1em">
+            <p style="display: flex; flex-direction: column; width: 50%">
+              <p><h5>Right Format</h5></p>
+              <p><img src="" /></p>
+            </p>
+            <p style="display: flex; flex-direction: column; width: 50%">
+              <p><h5>Wrong Format</h5></p>
+              <p><img src="" /></p>
+            </p>
+          </section>
+        </blockquote>
+      </section>
+</details>
 
-<div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
+<details open>
+  <summary>🚗 Kart and Furious</summary>
+  <section>
+    <img src="./src/assets/gatheer-pets.png">
+  </section>
+  <section style="display: flex; flex-direction: row; margin-top: 2em">
+    <section style="width: 30%">
+      <p>
+        <p style="font-weight: 700">
+          Grid (px):
+        </p style="font-weight: 700">
+        <p style="font-weight: 700">
+          Frames (n°):
+        </p>
+        <p style="font-weight: 700">
+          Format:
+        </p>
+        <p style="font-weight: 700">
+          Custom sprite sheet: 
+        </p>
+        <p style="font-weight: 700">
+          Custom normal image:
+        </p>
+        <p style="font-weight: 700">Order:</p>
+      </p>
+      </section>
+      <section style=""></section>
+      <sections style="margin-left: 50px">
+      <p>
+        <p>
+          32x32 per frame
+        </p>
+        <p>
+          .png
+        </p>
+        <p>
+          512x32
+        </p>
+        <p>
+          5 rows with 4 frames per row: idle, walk east, walk south, walk west, walk north
+        </p>
+        <p>
+          Sprite sheet (or single image) for when the pet is not actively following anyone. If you do not upload a custom normal image, the idle sprites from the Custom sprite sheet are used
+        </p>
+        <p>East, South, West, North</p>
+      </p>
+      </section>
+      </section>
+      <section>
+        <blockquote style="background-color: transparent; border-left: 6px solid #ff4757; font-style: italic; margin-top: 20px; margin-bottom: 3em">
+          <p style="margin-bottom: 2px; text-decoration: underline; color: #ff4757">Side note:</p> <p style="font-weight: bold">Be careful when creating your own spridesheet to make share you respect strictly the frame order (see below examples)
+          </p>
+          <section style="display: flex; flex-direction: row; margin-top: 1em">
+            <p style="display: flex; flex-direction: column; width: 50%">
+              <p><h5>Right Format</h5></p>
+              <p><img src="" /></p>
+            </p>
+            <p style="display: flex; flex-direction: column; width: 50%">
+              <p><h5>Wrong Format</h5></p>
+              <p><img src="" /></p>
+            </p>
+          </section>
+        </blockquote>
+      </section>
+</details>
+
+
+
+<div with="100%" style="margin: 4em"></div>
+
+#### Gather & APIs
+
+
+  <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
+
 
 ## 🧰 Tools
 
-<p style="background-color: rgba(123, 237, 159, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 30px; position: relative"><span style="background-color: white; border: 5px solid rgba(123, 237, 159, 0.7); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">⚓</span>The tools usded for mainly editing the different sprites sheets so they can fit the Gather space requirements are all below 👇</p>
+  <p style="background-color: rgba(123, 237, 159, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 30px; position: relative"><span style="background-color: white; border: 5px solid rgba(123, 237, 159, 0.7); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">⚓</span>The tools usded for mainly editing the different sprites sheets so they can fit the Gather space requirements are all below 👇</p>
 
 ➡️ [Remove.bg](https://github.com/fraction/readme-boilerplate/issues/new): remove any background to make your image's background transparent without loosing resolution
 
@@ -219,22 +273,22 @@ For the patient ones
 ➡️ [I love img](https://www.iloveimg.com/crop-image): Really cool website of a large variety in functionnalities to convert, optimize, crop any image (not pretty food on removing backgrudn though!)
 
 
-<div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
+  <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
 
 
 ## 📜 Library
 
-<p style="background-color: rgba(255, 165, 2, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 20px 40px; position: relative"><span style="background-color: white; border: 5px solid rgba(255, 165, 2, 0.9); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">🔖</span>Here, you can find all the essentials that made this Readme page possible 👇</p>
+  <p style="background-color: rgba(255, 165, 2, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 20px 40px; position: relative"><span style="background-color: white; border: 5px solid rgba(255, 165, 2, 0.9); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">🔖</span>Here, you can find all the essentials that made this Readme page possible 👇</p>
 
-<p align="right">
+  <p align="right">
 
-➡️ [Gather mapmaking repo](https://github.com/gathertown/mapmaking/tree/master)
-➡️ [Font Generator](https://fontmeme.com/fallout-font/)
-➡️ [Palette Color](https://flatuicolors.com/)
-➡️ [Emojis](https://emojipedia.org/smileys)
-➡️ [Hex to RGB Converter](https://www.rapidtables.com/convert/color/hex-to-rgb.html)
+  ➡️ [Gather mapmaking repo](https://github.com/gathertown/mapmaking/tree/master)
+  ➡️ [Font Generator](https://fontmeme.com/fallout-font/)
+  ➡️ [Palette Color](https://flatuicolors.com/)
+  ➡️ [Emojis](https://emojipedia.org/smileys)
+  ➡️ [Hex to RGB Converter](https://www.rapidtables.com/convert/color/hex-to-rgb.html)
 
-</p>
+  </p>
 
-</div>
+  </div>
 </div>
