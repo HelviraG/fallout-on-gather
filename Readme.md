@@ -23,8 +23,8 @@
 
 ## 📚 Content
 
-- [Starter pack](#starter)
-- [How to](#how_to)
+- [Starter pack](#starter-pack)
+- [How to](#how-to)
 - [Tools](#tools)
 - [Library](#library)
 
@@ -58,7 +58,7 @@ For the busy ones
   <img width="40%" src="./src/assets/gif-patience.gif">
 </p>
 
-  ##### 1. Copy paste the derired item directly on the map with copy pasting it 
+  ##### 1. Copy paste the desired item directly on the map with copy pasting it 
   
   ##### OR 
 
@@ -66,11 +66,11 @@ For the busy ones
 
 The folder follows this structure:
 
-    ├── src                     # Main diretory
-    │   ├── [assets](./src/assets) # Assets used to build the Readme
-    │   ├── gather-discord      # Any fun asset found the Gather's discord
-    │   ├── gather-repo         # Miscellaneous information
-    │   ├── sunday-2-gather       # Getting started guide
+    ├── src                           # Main diretory
+    │   ├── [assets](./src/assets)    # Assets used to build the Readme
+    │   ├── gather-discord            # Any fun asset found the Gather's discord
+    │   ├── gather-repo               # Assets found on the gather repo
+    │   ├── sunday-2-gather           # Custom assets home made
 
 <p style="margin-top: 2em"></p>
 
@@ -94,7 +94,7 @@ For the patient ones
   <img width="60%" src="./src/assets/gif-patience-rwo.gif">
 </p>
 
-  ##### 1. Copy Paste the derired item directly on the map with copy pasting it 
+  ##### 1. Copy Paste the desired item directly on the map with copy pasting it 
 
 
 <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
@@ -115,21 +115,13 @@ For the patient ones
   </p>
 </blockquote>
 
-<details open>
+<details>
   <summary>🐰 Any pet you want !</summary>
-  <section>
+  <section style="margin-top: 1em">
     <img src="./src/assets/gatheer-pets.png">
   </section>
-  <section style="display: flex; flex-direction: row; margin-top: 2em">
-    <section style="width: 30%">
-      <p>
-        <p style="border-top: transparent; border-left: transparent; border-right: transparent"></p>
-        <p style="font-weight: 700">
-          Element
-        </p>
-        <p style="font-weight: 700">
-          Specifications
-        </p>
+  <section style="display: flex; flex-direction: row; margin-top: 2em; align-content: center; justify-content: center">
+    <section style="width: 70%; padding-right: 10px; border-right: 1px solid grey">
         <p style="font-weight: 700">
           Grid (px)
         </p style="font-weight: 700">
@@ -143,13 +135,13 @@ For the patient ones
           Custom sprite sheet: 
         </p>
         <p style="font-weight: 700">
-          Custom normal image
+          Custom normal image:
         </p>
-      </p>
+        <p style="font-weight: 700">
+          Order:
+        </p>
       </section>
-      <section style=""></section>
-      <sections style="margin-left: 50px">
-      <p>
+      <section style="margin-left: 50px">
         <p>
           128x160
         </p>
@@ -160,40 +152,42 @@ For the patient ones
           .png
         </p>
         <p>
-          5 rows with 4 frames per row: idle, walk east, walk south, walk west, walk north
+          5 rows with 4 frames per row
         </p>
         <p>
           Sprite sheet (or single image) for when the pet is not actively following anyone. If you do not upload a custom normal image, the idle sprites from the Custom sprite sheet are used
         </p>
-      </p>
+        <p>
+          Idle, Walk East, Walk South, Walk West, Walk North
+        </p>
       </section>
       </section>
       <section>
         <blockquote style="background-color: transparent; border-left: 6px solid #ff4757; font-style: italic; margin-top: 20px; margin-bottom: 3em">
           <p style="margin-bottom: 2px; text-decoration: underline; color: #ff4757">Side note:</p> <p style="font-weight: bold">Be careful when creating your own spridesheet to make share you respect strictly the frame order (see below examples)
           </p>
-          <section style="display: flex; flex-direction: row; margin-top: 1em">
-            <p style="display: flex; flex-direction: column; width: 50%">
+          <section style="display: flex; flex-direction: column; margin-top: 1em; align-items: center">
+            <p style="display: flex; flex-direction: column">
               <p><h5>Right Format</h5></p>
-              <p><img src="" /></p>
+              <p><img src="src/gather-repo/pets/sheep.png" /></p>
+              <p><img src="src/gather-discord/pets/yoshi-gater-2.png" /></p>
             </p>
-            <p style="display: flex; flex-direction: column; width: 50%">
+            <p style="display: flex; flex-direction: column; margin: 0">
               <p><h5>Wrong Format</h5></p>
-              <p><img src="" /></p>
+              <p style="margin: 0"><img width="50%" margin="0 auto" src="src/assets/read-me-page/wrong-pet-example.png" /></p>
             </p>
           </section>
         </blockquote>
       </section>
 </details>
 
-<details open>
+<details>
   <summary>🚗 Kart and Furious</summary>
-  <section>
-    <img src="./src/assets/gatheer-pets.png">
+  <section style="margin-top: 1em">
+    <img src="./src/assets/read-me-page/gather-karts.png">
   </section>
   <section style="display: flex; flex-direction: row; margin-top: 2em">
-    <section style="width: 30%">
-      <p>
+      <section style="width: 70%; padding-right: 10px; border-right: 1px solid grey">
         <p style="font-weight: 700">
           Grid (px):
         </p style="font-weight: 700">
@@ -210,11 +204,8 @@ For the patient ones
           Custom normal image:
         </p>
         <p style="font-weight: 700">Order:</p>
-      </p>
       </section>
-      <section style=""></section>
       <sections style="margin-left: 50px">
-      <p>
         <p>
           32x32 per frame
         </p>
@@ -231,34 +222,52 @@ For the patient ones
           Sprite sheet (or single image) for when the pet is not actively following anyone. If you do not upload a custom normal image, the idle sprites from the Custom sprite sheet are used
         </p>
         <p>East, South, West, North</p>
-      </p>
-      </section>
       </section>
       <section>
         <blockquote style="background-color: transparent; border-left: 6px solid #ff4757; font-style: italic; margin-top: 20px; margin-bottom: 3em">
           <p style="margin-bottom: 2px; text-decoration: underline; color: #ff4757">Side note:</p> <p style="font-weight: bold">Be careful when creating your own spridesheet to make share you respect strictly the frame order (see below examples)
           </p>
-          <section style="display: flex; flex-direction: row; margin-top: 1em">
-            <p style="display: flex; flex-direction: column; width: 50%">
-              <p><h5>Right Format</h5></p>
-              <p><img src="" /></p>
+          <section style="display: flex; flex-direction: column; margin-top: 10px">
+            <p style="display: flex; flex-direction: column; margin: 0">
+              <h5 style="text-align: center">Right Format</h5>
+              <p><img width="100%" src="src/gather-repo/karts/gokart.png" /></p>
+              <p><img width="100%" src="src/gather-discord/karts/sprite_gokart_llama_backfixed.png" /></p>
             </p>
-            <p style="display: flex; flex-direction: column; width: 50%">
-              <p><h5>Wrong Format</h5></p>
-              <p><img src="" /></p>
+            <p style="display: flex; flex-direction: column">
+              <h5 style="text-align: center">Wrong Format</h5>
+              <p style="text-align: center"><img width="20%" src="src/assets/read-me-page/wrong-kart-example.png" /></p>
             </p>
           </section>
         </blockquote>
       </section>
 </details>
 
-
-
 <div with="100%" style="margin: 4em"></div>
 
 #### Gather & APIs
 
+##### Connexion API
+ :one: 👉 Retrieve your API key [here](https://app.gather.town/apikeys)
+ :two: 👉 Init the api connexion as below
 
+````
+module.exports = {
+	SPACE_ID: "oFz81x6whatever\\SpaceName", // note the \, NOT / as is in the URL
+	API_KEY: "YOUR KEY HERE",
+};`
+````
+  :three: 👉 Check out the API documentation [here](https://gathertown.notion.site/Gather-HTTP-API-3bbf6c59325f40aca7ef5ce14c677444)
+
+<div with="100%" style="margin: 3em"></div>
+
+##### Websocket SDK (gather-town-client)
+
+ :one: 👉 Check out the npm package page [here](https://www.npmjs.com/package/@gathertown/gather-game-client?activeTab=code)
+ :two: 👉 Follow the previous step to recover your API key
+ :three: 👉 Find the websocket documentation [here](http://gather-game-client-docs.s3-website-us-west-2.amazonaws.com/#md:setup)
+ :four: 👉 Find [here](https://gathertown.notion.site/Gather-Websocket-API-bf2d5d4526db412590c3579c36141063) the websocket client notion
+ :five: Follow these instructions for your first steps coding on Gather
+  
   <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
 
 
