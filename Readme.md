@@ -1,5 +1,5 @@
 <div style="background-color: rgba(217, 128, 250, 0.2)">
-<div style="margin-top: 2em"></div>
+<div style="margin-top: 30px"></div>
 
 
 <p>
@@ -7,14 +7,14 @@
 </p>
 
 <p align="center" style="z-index: 1200">
-    <img width="80%" height="auto" src="src/assets/read-me-page/fallout-on-gather.png" style="margin-bottom: 16px; margin-top: -3.5em" />
+    <img width="80%" height="auto" src="src/assets/read-me-page/fallout-on-gather.png" style="margin-bottom: 16px; margin-top: -3.40px" />
 </p>
 
-<div style="padding: 50px; margin-top: -3.5em">
+<div style="padding: 50px; margin-top: -70px">
 
-<p align="center" style="color: purple; font-weight: 800; font-size: 26px; font-style: italic; margin-bottom: 1em">Let's gather together</p>
+<p align="center" style="color: purple; font-weight: 800; font-size: 26px; font-style: italic; margin-bottom: 10px">Let's gather together</p>
 
-<div style="display: flex; flex-direction: row; gap: 2px">
+<div style="display: inline-flex">
 <p>
 
 [![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20SHOWTIME!-1e90ff.svg?&label=🍿&labelColor=1e90ff)](https://app.gather.town/app/72fL7qdg90D8UjT8/gather-item-market)
@@ -41,7 +41,7 @@
 </p>
 </div>
 
-<div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
+<div with="100%" style="border: 1px dashed purple; margin: 40px"></div>
 
 
 # 📚 Content
@@ -52,11 +52,11 @@
 - #### [Library](#library)
 
 
-<div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
+<div with="100%" style="border: 1px dashed purple; margin: 40px"></div>
 
 # 🎒 Starter pack
 
-<table style="margin-top: 4em; margin-bottom: 4em">
+<table style="margin-top: 40px; margin-bottom: 40px">
     <tbody>
         <tr>
             <td style="border: none">
@@ -72,10 +72,10 @@
     </tbody>
 <table>
 
-<div style="margin-top: 4em; margin-bottom: 3em; max-width: 80%; margin: 0 auto"><img src="./src/assets/read-me-page/matrix-pill-choice.gif"></div>
-<details style="text-align: center; margin-top: 2em">
+<div style="margin-top: 40px; margin-bottom: 40px; max-width: 80%; margin: 0 auto"><img src="./src/assets/read-me-page/matrix-pill-choice.gif"></div>
+<details style="text-align: center; margin-top: 20px">
 <summary>Je ne peux pas, j'ai piscine!</summary>
-<p align="center" style="font-weight: bold; font-style: italic; margin-top: 4em">
+<p align="center" style="font-weight: bold; font-style: italic; margin-top: 40px">
 For the busy ones
 </p>
 <p align="center">
@@ -96,7 +96,7 @@ The folder follows this structure:
     │   ├── gather-repo               # Assets found on the gather repo
     │   ├── sunday-2-gather           # Custom assets home made
 
-<p style="margin-top: 2em"></p>
+<p style="margin-top: 40px"></p>
 
   ###### 3. Follow the instructions about uploading of a custom pet/kart. 
 
@@ -110,7 +110,7 @@ The folder follows this structure:
 </blockquote>
 </details>
 
-<details style="margin-top: 2em; margin-bottom: 2em; text-align: center">
+<details style="margin-top: 20px; margin-bottom: 20px; text-align: center">
 <summary> Bring it on, I have time for this!</summary>
 <p align="center" style="font-weight: bold; font-style: italic; margin-top: 40px">
 For the patient ones
@@ -123,18 +123,18 @@ For the patient ones
   ###### 1. Follow the steps below to create your own Gather asset and/or go further with Gather playing around with their API/websocket 👇
 
 
-<div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
+<div with="100%" style="border: 1px dashed purple; margin: 40px"></div>
 
 
 # 🤔 How to ?!
 
-<p style="background-color: rgba(255, 107, 129, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 30px; position: relative"><span style="background-color: white; border: 5px solid rgba(255, 107, 129, 0.9); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">🪛</span>This section is truly about the fun that can be done on Gather with few tricks !</p>
+<p style="background-color: rgba(255, 107, 129, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 30px; position: relative"><span style="background-color: white; border: 5px solid rgba(255, 107, 129, 0.9); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -7px">🪛</span>This section is truly about the fun that can be done on Gather with few tricks !</p>
 
-<div with="100%" style="margin: 2em"></div>
+<div with="100%" style="margin: 20px"></div>
 
 ## 🎨 Items Customization
 
-<blockquote style="background-color: transparent; border-left: 6px solid #ff4757; font-style: italic; margin-top: 20px; margin-bottom: 3em">
+<blockquote style="background-color: transparent; border-left: 6px solid #ff4757; font-style: italic; margin-top: 20px; margin-bottom: 30px">
   <p style="margin-bottom: 2px; text-decoration: underline; color: #ff4757">Side note:</p> <p style="font-weight: bold">You can download here the oeverall design guideline made by the Gather team
 
   👉 Check out their [public map making repository](#library)
@@ -143,10 +143,10 @@ For the patient ones
 
 <details>
   <summary>🐰 Any pet you want !</summary>
-  <section style="margin-top: 1em">
+  <section style="margin-top: 10px">
     <img src="src/assets/gatheer-pets.png">
   </section>
-  <section style="display: flex; flex-direction: row; margin-top: 2em; align-content: center; justify-content: center">
+  <section style="display: flex; flex-direction: row; margin-top: 20px; align-content: center; justify-content: center">
     <section style="width: 70%; padding-right: 10px; border-right: 1px solid grey">
         <p style="font-weight: 700">
           Grid (px)
@@ -189,10 +189,10 @@ For the patient ones
       </section>
       </section>
       <section>
-        <blockquote style="background-color: transparent; border-left: 6px solid #ff4757; font-style: italic; margin-top: 20px; margin-bottom: 3em">
+        <blockquote style="background-color: transparent; border-left: 6px solid #ff4757; font-style: italic; margin-top: 20px; margin-bottom: 30px">
           <p style="margin-bottom: 2px; text-decoration: underline; color: #ff4757">Side note:</p> <p style="font-weight: bold">🚨 Be careful when creating your own spridesheet to make share you respect strictly the frame order, rows and direction. Otherwise, it won't work (see below 👇)
           </p>
-          <section style="display: flex; flex-direction: column; margin-top: 1em; align-items: center">
+          <section style="display: flex; flex-direction: column; margin-top: 10px; align-items: center">
             <p style="display: flex; flex-direction: column">
               <p><h5>Right Format</h5></p>
               <p><img src="src/gather-repo/pets/sheep.png" /></p>
@@ -209,10 +209,10 @@ For the patient ones
 
 <details>
   <summary>🚗 Kart and Furious</summary>
-  <section style="margin-top: 1em">
+  <section style="margin-top: 10px">
     <img src="src/assets/read-me-page/gather-karts.png">
   </section>
-  <section style="display: flex; flex-direction: row; margin-top: 2em">
+  <section style="display: flex; flex-direction: row; margin-top: 20px">
       <section style="width: 70%; padding-right: 10px; border-right: 1px solid grey">
         <p style="font-weight: 700">
           Grid (px):
@@ -250,7 +250,7 @@ For the patient ones
         <p>East, South, West, North</p>
       </section>
       <section>
-        <blockquote style="background-color: transparent; border-left: 6px solid #ff4757; font-style: italic; margin-top: 20px; margin-bottom: 3em">
+        <blockquote style="background-color: transparent; border-left: 6px solid #ff4757; font-style: italic; margin-top: 20px; margin-bottom: 30px">
           <p style="margin-bottom: 2px; text-decoration: underline; color: #ff4757">Side note:</p> <p style="font-weight: bold">🚨 Be careful when creating your own spridesheet to make sure you respect strictly the frame order as well as the number of frames per row. Otherwise, it won't work (see below 👇)
           </p>
           <section style="display: flex; flex-direction: column; margin-top: 10px">
@@ -268,11 +268,11 @@ For the patient ones
       </section>
 </details>
 
-<div with="100%" style="margin: 4em"></div>
+<div with="100%" style="margin: 40px"></div>
 
 ## 🕹️ Gather & APIs
 
-<p style="background-color: rgba(83, 82, 237, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 20px 40px; position: relative; margin-top: 3em; margin-bottom: 2em"><span style="background-color: white; border: 5px solid rgba(83, 82, 237, 0.9); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">👾</span>Here, you can find all you need to kick start on coding with Gather 👇</p>
+<p style="background-color: rgba(83, 82, 237, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 20px 40px; position: relative; margin-top: 30px; margin-bottom: 20px"><span style="background-color: white; border: 5px solid rgba(83, 82, 237, 0.9); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -7px">👾</span>Here, you can find all you need to kick start on coding with Gather 👇</p>
 
 ### 🛜 Connexion API
  :one: Retrieve your API key [here](https://app.gather.town/apikeys)
@@ -286,7 +286,7 @@ module.exports = {
 ````
   :three: Check out the API documentation [here](https://gathertown.notion.site/Gather-HTTP-API-3bbf6c59325f40aca7ef5ce14c677444)
 
-<div with="100%" style="margin: 3em"></div>
+<div with="100%" style="margin: 30px"></div>
 
 ### 🗃️ Websocket SDK (gather-town-client)
 
@@ -296,7 +296,7 @@ module.exports = {
  :four: Find [here](https://gathertown.notion.site/Gather-Websocket-API-bf2d5d4526db412590c3579c36141063) the websocket client notion
  :five: Follow these instructions for your first steps coding on Gather
 
-<blockquote style="background-color: transparent; border-left: 6px solid #2ed573; font-style: italic; margin-top: 20px; margin-bottom: 3em">
+<blockquote style="background-color: transparent; border-left: 6px solid #2ed573; font-style: italic; margin-top: 20px; margin-bottom: 30px">
   <p style="margin-bottom: 2px; text-decoration: underline; color: #2ed573">Tips:</p> 
   <p>
   <p>
@@ -317,11 +317,11 @@ module.exports = {
   </p>
 </blockquote>
 
-<div style="background-color: rgba(255, 107, 129, 0.1); border: 1px solid #ff6b81; border-radius: 20px; margin: 0 auto; padding: 1em">
+<div style="background-color: rgba(255, 107, 129, 0.1); border: 1px solid #ff6b81; border-radius: 20px; margin: 0 auto; padding: 10px">
 
 ### 🪄 Awesome repositories to get inspired/learn from
 
-<p style="margin-top: 2em"></p>
+<p style="margin-top: 20px"></p>
 
 ✨ [Basic event listener](https://github.com/gathertown/mod-basic-player-listener)
 ✨ [The Gather community](https://gathertown.notion.site/Community-External-Docs-9cd3f36a718f4b9ba7f965bbbc32c97f): Notion with usefull resources around the worldwide Gather community
@@ -332,11 +332,11 @@ module.exports = {
 </div>
 </details>
   
-  <div with="100%" style="border: 1px dashed purple; margin: 5em"></div>
+  <div with="100%" style="border: 1px dashed purple; margin: 50px"></div>
 
 # 🧰 Tools
 
-  <p style="background-color: rgba(123, 237, 159, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 30px; position: relative"><span style="background-color: white; border: 5px solid rgba(123, 237, 159, 0.7); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">⚓</span>The tools usded for mainly editing the different sprites sheets so they can fit the Gather space requirements are all below 👇</p>
+  <p style="background-color: rgba(123, 237, 159, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 30px; position: relative"><span style="background-color: white; border: 5px solid rgba(123, 237, 159, 0.7); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -7px">⚓</span>The tools usded for mainly editing the different sprites sheets so they can fit the Gather space requirements are all below 👇</p>
 
 ➡️ [Remove.bg](https://github.com/fraction/readme-boilerplate/issues/new): remove any background to make your image's background transparent without loosing resolution
 
@@ -349,12 +349,12 @@ module.exports = {
 ➡️ [Tiled](https://www.mapeditor.org/): Amazing map building library for those of you experts on world building!
 
 
-  <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
+  <div with="100%" style="border: 1px dashed purple; margin: 40px"></div>
 
 
 # 📜 Library
 
-  <p style="background-color: rgba(255, 165, 2, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 20px 40px; position: relative"><span style="background-color: white; border: 5px solid rgba(255, 165, 2, 0.9); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">🔖</span>Here, you can find all the essentials that made this Readme page possible 👇</p>
+  <p style="background-color: rgba(255, 165, 2, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 20px 40px; position: relative"><span style="background-color: white; border: 5px solid rgba(255, 165, 2, 0.9); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -7px">🔖</span>Here, you can find all the essentials that made this Readme page possible 👇</p>
 
   <p align="right">
 
