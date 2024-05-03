@@ -14,6 +14,7 @@
 
 <p align="center" style="color: purple; font-weight: 800; font-size: 26px; font-style: italic; margin-bottom: 1em">Let's gather together</p>
 
+[![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20SHOWTIME!-1e90ff.svg?&label=🍿&labelColor=1e90ff)]()
 ![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20YES%20GATHER%20!-FF17E9.svg?&label=🤖&labelColor=7809A4) ![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20%20%20ANYTHING%20TO%20START%20-7809A4.svg?&label=%F0%9F%AA%9B&labelColor=FF17E9) ![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20COOK%20UP%20QUICK!-FF17E9.svg?&label=%F0%9F%8D%9C&labelColor=7809A4) [![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20COLLABORATE-7809A4.svg?&label=💪&labelColor=7809A4)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D) [![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20HAVE%20FUN!-7809A4.svg?&label=%E2%AD%90&labelColor=FF17E9)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)
 
 
@@ -21,19 +22,19 @@
 <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
 
 
-## 📚 Content
+# 📚 Content
 
-- [Starter pack](#starter-pack)
-- [How to](#how-to)
-- [Tools](#tools)
-- [Library](#library)
+- #### [Starter pack](#starter-pack)
+- #### [How to](#how-to)
+- #### [Tools](#tools)
+- #### [Library](#library)
 
 
 <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
 
-## 🎒 Starter pack
+# 🎒 Starter pack
 
-<table>
+<table style="margin-top: 4em; margin-bottom: 4em">
     <tbody>
         <tr>
             <td style="border: none">
@@ -49,20 +50,21 @@
     </tbody>
 <table>
 
-
-<p align="center" style="font-weight: bold; font-style: italic; margin-top: 40px">
+<div style="margin-top: 4em; margin-bottom: 3em"><img src="./src/assets/read-me-page/matrix-pill-choice.gif"></div>
+<details>
+<summary>Je ne peux pas, j'ai piscine!</summary>
+<p align="center" style="font-weight: bold; font-style: italic; margin-top: 4em">
 For the busy ones
 </p>
-
 <p align="center">
   <img width="40%" src="./src/assets/gif-patience.gif">
 </p>
 
-  ##### 1. Copy paste the desired item directly on the map with copy pasting it 
+  ###### 1. Copy paste the desired item directly on the map with copy pasting it 
   
-  ##### OR 
+  ###### OR 
 
-  ##### 2. Download any image you want on the `/src` folder. 
+  ###### 2. Download any image you want on the `/src` folder. 
 
 The folder follows this structure:
 
@@ -74,7 +76,7 @@ The folder follows this structure:
 
 <p style="margin-top: 2em"></p>
 
-  ##### 3. Follow the instructions about uploading of a custom pet/kart. 
+  ###### 3. Follow the instructions about uploading of a custom pet/kart. 
 
 <blockquote style="background-color: transparent; border-left: 6px solid #ff4757; margin-top: 20px">
 
@@ -84,8 +86,10 @@ The folder follows this structure:
 - [Add a custom kart on Gather](https://support.gather.town/hc/en-us/articles/15910378922388-Go-Karts)
 - [Add a custom object on Gather](https://support.gather.town/hc/en-us/articles/15909788073236-Custom-Objects)
 </blockquote>
+</details>
 
-
+<details style="margin-top: 2em; margin-bottom: 2em" open>
+<summary> Bring it on, I have time for this!</summary>
 <p align="center" style="font-weight: bold; font-style: italic; margin-top: 40px">
 For the patient ones
 </p>
@@ -94,24 +98,24 @@ For the patient ones
   <img width="60%" src="./src/assets/gif-patience-rwo.gif">
 </p>
 
-  ##### 1. Copy Paste the desired item directly on the map with copy pasting it 
+  ###### 1. Follow the steps below to create your own Gather asset and/or go further with Gather playing around with their API/websocket 👇
 
 
 <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
 
 
-## 🤔 How to ?!
+# 🤔 How to ?!
 
 <p style="background-color: rgba(255, 107, 129, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 30px; position: relative"><span style="background-color: white; border: 5px solid rgba(255, 107, 129, 0.9); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">🪛</span>This section is truly about the fun that can be done on Gather with few tricks !</p>
 
-<div with="100%" style="margin: 4em"></div>
+<div with="100%" style="margin: 2em"></div>
 
-#### Items Customization
+## 🎨 Items Customization
 
 <blockquote style="background-color: transparent; border-left: 6px solid #ff4757; font-style: italic; margin-top: 20px; margin-bottom: 3em">
   <p style="margin-bottom: 2px; text-decoration: underline; color: #ff4757">Side note:</p> <p style="font-weight: bold">You can download here the oeverall design guideline made by the Gather team
 
-  [👉 Check out their public map making repository](#library)
+  👉 Check out their [public map making repository](#library)
   </p>
 </blockquote>
 
@@ -164,7 +168,7 @@ For the patient ones
       </section>
       <section>
         <blockquote style="background-color: transparent; border-left: 6px solid #ff4757; font-style: italic; margin-top: 20px; margin-bottom: 3em">
-          <p style="margin-bottom: 2px; text-decoration: underline; color: #ff4757">Side note:</p> <p style="font-weight: bold">Be careful when creating your own spridesheet to make share you respect strictly the frame order (see below examples)
+          <p style="margin-bottom: 2px; text-decoration: underline; color: #ff4757">Side note:</p> <p style="font-weight: bold">🚨 Be careful when creating your own spridesheet to make share you respect strictly the frame order, rows and direction. Otherwise, it won't work (see below 👇)
           </p>
           <section style="display: flex; flex-direction: column; margin-top: 1em; align-items: center">
             <p style="display: flex; flex-direction: column">
@@ -225,7 +229,7 @@ For the patient ones
       </section>
       <section>
         <blockquote style="background-color: transparent; border-left: 6px solid #ff4757; font-style: italic; margin-top: 20px; margin-bottom: 3em">
-          <p style="margin-bottom: 2px; text-decoration: underline; color: #ff4757">Side note:</p> <p style="font-weight: bold">Be careful when creating your own spridesheet to make share you respect strictly the frame order (see below examples)
+          <p style="margin-bottom: 2px; text-decoration: underline; color: #ff4757">Side note:</p> <p style="font-weight: bold">🚨 Be careful when creating your own spridesheet to make sure you respect strictly the frame order as well as the number of frames per row. Otherwise, it won't work (see below 👇)
           </p>
           <section style="display: flex; flex-direction: column; margin-top: 10px">
             <p style="display: flex; flex-direction: column; margin: 0">
@@ -244,11 +248,13 @@ For the patient ones
 
 <div with="100%" style="margin: 4em"></div>
 
-#### Gather & APIs
+## 🕹️ Gather & APIs
 
-##### Connexion API
- :one: 👉 Retrieve your API key [here](https://app.gather.town/apikeys)
- :two: 👉 Init the api connexion as below
+<p style="background-color: rgba(83, 82, 237, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 20px 40px; position: relative; margin-top: 3em; margin-bottom: 2em"><span style="background-color: white; border: 5px solid rgba(83, 82, 237, 0.9); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">👾</span>Here, you can find all you need to kick start on coding with Gather 👇</p>
+
+### 🛜 Connexion API
+ :one: Retrieve your API key [here](https://app.gather.town/apikeys)
+ :two: Init the api connexion as below 👇
 
 ````
 module.exports = {
@@ -256,22 +262,54 @@ module.exports = {
 	API_KEY: "YOUR KEY HERE",
 };`
 ````
-  :three: 👉 Check out the API documentation [here](https://gathertown.notion.site/Gather-HTTP-API-3bbf6c59325f40aca7ef5ce14c677444)
+  :three: Check out the API documentation [here](https://gathertown.notion.site/Gather-HTTP-API-3bbf6c59325f40aca7ef5ce14c677444)
 
 <div with="100%" style="margin: 3em"></div>
 
-##### Websocket SDK (gather-town-client)
+### 🗃️ Websocket SDK (gather-town-client)
 
- :one: 👉 Check out the npm package page [here](https://www.npmjs.com/package/@gathertown/gather-game-client?activeTab=code)
- :two: 👉 Follow the previous step to recover your API key
- :three: 👉 Find the websocket documentation [here](http://gather-game-client-docs.s3-website-us-west-2.amazonaws.com/#md:setup)
- :four: 👉 Find [here](https://gathertown.notion.site/Gather-Websocket-API-bf2d5d4526db412590c3579c36141063) the websocket client notion
+ :one: Check out the npm package page [here](https://www.npmjs.com/package/@gathertown/gather-game-client?activeTab=code)
+ :two: Follow the previous steps to get your API key
+ :three: Find the websocket documentation [here](http://gather-game-client-docs.s3-website-us-west-2.amazonaws.com/#md:setup)
+ :four: Find [here](https://gathertown.notion.site/Gather-Websocket-API-bf2d5d4526db412590c3579c36141063) the websocket client notion
  :five: Follow these instructions for your first steps coding on Gather
+
+<blockquote style="background-color: transparent; border-left: 6px solid #2ed573; font-style: italic; margin-top: 20px; margin-bottom: 3em">
+  <p style="margin-bottom: 2px; text-decoration: underline; color: #2ed573">Tips:</p> 
+  <p>
+  <p>
+
+  * Go to `node_modules/@gathertown/gather-game-common/src/events.proto` file on the gather client sdk you have add and check `ServerClientEvent` message
+  </p>
+  <p>
+
+  * You might want to add this [vsc proto extension](https://marketplace.visualstudio.com/items?itemName=zxh404.vscode-proto3) for syntax highlight
+  </p>
+  <p>
+
+  * If you come accross a game/engine method with a defined `targetId`, this method is an action that can directly apply to any player in the space
+  </p>
+  <p>
+
+  * Check out the [Developer Gather Forum](https://forum.gather.town/c/developers/6) for any question you might be wondering
+  </p>
+</blockquote>
+
+<div style="background-color: rgba(255, 107, 129, 0.1); border: 1px solid #ff6b81; border-radius: 20px; margin: 0 auto; padding: 1em">
+
+### 🪄 Awesome repositories to get inspired
+
+<p style="margin-top: 2em"></p>
+
+✨ [The Forest](): Forest game animation
+✨ [The Jukebox API](): Play music on Gather 
+
+</div>
+</details>
   
-  <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
+  <div with="100%" style="border: 1px dashed purple; margin: 5em"></div>
 
-
-## 🧰 Tools
+# 🧰 Tools
 
   <p style="background-color: rgba(123, 237, 159, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 30px; position: relative"><span style="background-color: white; border: 5px solid rgba(123, 237, 159, 0.7); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">⚓</span>The tools usded for mainly editing the different sprites sheets so they can fit the Gather space requirements are all below 👇</p>
 
@@ -281,11 +319,15 @@ module.exports = {
 
 ➡️ [I love img](https://www.iloveimg.com/crop-image): Really cool website of a large variety in functionnalities to convert, optimize, crop any image (not pretty food on removing backgrudn though!)
 
+➡️ [OpenDrive](https://www.opendrive.com): Awesome cloud file storage (free after creating an account, 5GB available), ideal for external assets (music, images, documents...) to use with the Gather API
+
+➡️ [Tiled](https://www.mapeditor.org/): Amazing map building library for those of you experts on world building!
+
 
   <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
 
 
-## 📜 Library
+# 📜 Library
 
   <p style="background-color: rgba(255, 165, 2, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 20px 40px; position: relative"><span style="background-color: white; border: 5px solid rgba(255, 165, 2, 0.9); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">🔖</span>Here, you can find all the essentials that made this Readme page possible 👇</p>
 
