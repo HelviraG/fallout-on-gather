@@ -3,21 +3,44 @@
 
 
 <p>
-  <img width="100%" src="./src/assets/fallout-the-gather-background.png">
+  <img width="100%" src="src/assets/fallout-the-gather-background.png">
 </p>
 
 <p align="center" style="z-index: 1200">
-    <img width="80%" height="auto" src="./src/assets/fallout-on-gather.png" style="margin-bottom: 16px; margin-top: -3.5em" />
+    <img width="80%" height="auto" src="src/assets/fallout-on-gather.png" style="margin-bottom: 16px; margin-top: -3.5em" />
 </p>
 
 <div style="padding: 50px; margin-top: -3.5em">
 
 <p align="center" style="color: purple; font-weight: 800; font-size: 26px; font-style: italic; margin-bottom: 1em">Let's gather together</p>
 
-[![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20SHOWTIME!-1e90ff.svg?&label=🍿&labelColor=1e90ff)]()
-![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20YES%20GATHER%20!-FF17E9.svg?&label=🤖&labelColor=7809A4) ![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20%20%20ANYTHING%20TO%20START%20-7809A4.svg?&label=%F0%9F%AA%9B&labelColor=FF17E9) ![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20COOK%20UP%20QUICK!-FF17E9.svg?&label=%F0%9F%8D%9C&labelColor=7809A4) [![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20COLLABORATE-7809A4.svg?&label=💪&labelColor=7809A4)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D) [![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20HAVE%20FUN!-7809A4.svg?&label=%E2%AD%90&labelColor=FF17E9)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)
+<div style="display: flex; flex-direction: row; gap: 2px">
 
+<p>
 
+[![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20SHOWTIME!-1e90ff.svg?&label=🍿&labelColor=1e90ff)](https://app.gather.town/app/72fL7qdg90D8UjT8/gather-item-market)
+</p>
+<p>
+
+[![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20YES%20GATHER%20!-FF17E9.svg?&label=🤖&labelColor=7809A4)](https://www.gather.town/)
+</p>
+<p>
+
+[![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20%20%20ANYTHING%20TO%20START%20-7809A4.svg?&label=%F0%9F%AA%9B&labelColor=FF17E9)](https://www.youtube.com/watch?v=xchGAzcDNlw&pp=ygUVbmFkaXlhIGV0IGMnZXN0IHBhcnRp)
+</p>
+<p>
+
+![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20COOK%20UP%20QUICK!-FF17E9.svg?&label=%F0%9F%8D%9C&labelColor=7809A4) 
+<p>
+<p>
+
+[![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20COLLABORATE-7809A4.svg?&label=💪&labelColor=7809A4)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D) 
+</p>
+<p>
+
+[![Static Badge](https://img.shields.io/badge/%20%20%20%20%20%20%20%20%20%20%20%20HAVE%20FUN!-7809A4.svg?&label=%E2%AD%90&labelColor=FF17E9)](https://www.youtube.com/watch?v=dQw4w9WgXcQ&pp=ygUXbmV2ZXIgZ29ubmEgZ2l2ZSB5b3UgdXA%3D)
+</p>
+</div>
 
 <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
 
@@ -38,7 +61,7 @@
     <tbody>
         <tr>
             <td style="border: none">
-                <img width="3000px" src="./src/assets/fallout-beep-bop.jpg">
+              <img width="3000px" src="src/assets/fallout-beep-bop.jpg">
             </td>
             <td style="border: 1px solid #7809A4; padding: 20px">
                 Nothing needed, feel free to fork this repo if you wnant to have all the assets on you computer and don't hesitate to contribute to this repository with your own creations 
@@ -57,7 +80,7 @@
 For the busy ones
 </p>
 <p align="center">
-  <img width="40%" src="./src/assets/gif-patience.gif">
+  <img width="40%" src="src/assets/gif-patience.gif">
 </p>
 
   ###### 1. Copy paste the desired item directly on the map with copy pasting it 
@@ -88,7 +111,7 @@ The folder follows this structure:
 </blockquote>
 </details>
 
-<details style="margin-top: 2em; margin-bottom: 2em" open>
+<details style="margin-top: 2em; margin-bottom: 2em">
 <summary> Bring it on, I have time for this!</summary>
 <p align="center" style="font-weight: bold; font-style: italic; margin-top: 40px">
 For the patient ones
@@ -122,7 +145,7 @@ For the patient ones
 <details>
   <summary>🐰 Any pet you want !</summary>
   <section style="margin-top: 1em">
-    <img src="./src/assets/gatheer-pets.png">
+    <img src="src/assets/gatheer-pets.png">
   </section>
   <section style="display: flex; flex-direction: row; margin-top: 2em; align-content: center; justify-content: center">
     <section style="width: 70%; padding-right: 10px; border-right: 1px solid grey">
@@ -188,7 +211,7 @@ For the patient ones
 <details>
   <summary>🚗 Kart and Furious</summary>
   <section style="margin-top: 1em">
-    <img src="./src/assets/read-me-page/gather-karts.png">
+    <img src="src/assets/read-me-page/gather-karts.png">
   </section>
   <section style="display: flex; flex-direction: row; margin-top: 2em">
       <section style="width: 70%; padding-right: 10px; border-right: 1px solid grey">
@@ -297,13 +320,16 @@ module.exports = {
 
 <div style="background-color: rgba(255, 107, 129, 0.1); border: 1px solid #ff6b81; border-radius: 20px; margin: 0 auto; padding: 1em">
 
-### 🪄 Awesome repositories to get inspired
+### 🪄 Awesome repositories to get inspired/learn from
 
 <p style="margin-top: 2em"></p>
 
-✨ [The Forest](): Forest game animation
-✨ [The Jukebox API](): Play music on Gather 
-
+✨ [Basic event listener](https://github.com/gathertown/mod-basic-player-listener)
+✨ [The Gather community](https://gathertown.notion.site/Community-External-Docs-9cd3f36a718f4b9ba7f965bbbc32c97f): Notion with usefull resources around the worldwide Gather community
+✨ [The Forest](https://github.com/gathertown/the-forest): Forest game animation
+✨ [Websocket Examples](https://github.com/Markkop/gather-town-websocket-examples/tree/main): Great example on Gather game interactions
+✨ [Chat Control NPC](https://github.com/gathertown/twitch-plays-gather)
+✨ [Gather status Spotify](https://github.com/gathertown/mod-spotify-as-status)
 </div>
 </details>
   
