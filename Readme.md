@@ -21,7 +21,7 @@
 <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
 
 
-## Content
+## 📚 Content
 
 - [Starter pack](#starter)
 - [How to](#how_to)
@@ -31,7 +31,7 @@
 
 <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
 
-## Starter pack
+## 🎒 Starter pack
 
 <table>
     <tbody>
@@ -100,7 +100,7 @@ For the patient ones
 <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
 
 
-## How to ?!
+## 🤔 How to ?!
 
 <p style="background-color: rgba(255, 107, 129, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 30px; position: relative"><span style="background-color: white; border: 5px solid rgba(255, 107, 129, 0.9); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">🪛</span>This section is truly about the fun that can be done on Gather with few tricks !</p>
 
@@ -115,25 +115,100 @@ For the patient ones
 
    <details>
    <summary>🐰 Any pet you want !</summary>
+
+   <img src="./src/assets/gatheer-pets.png">
    [ x ] Requirements
 
-
-    | Parameter | Grid Dimension     | Description                |
-    | :-------- | :-------           | :------------------------- |
-    | `api_key` | `string`           | **Required**. Your API key |
-
+  <table align="center">
+    <tbody>
+      <tr>
+        <td>
+          Element
+        </td>
+        <td>
+          Specifications
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Grid (px)
+        </td>
+        <td>
+          128x160
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Frames (n°)
+        </td>
+        <td>
+          16
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Format
+        </td>
+        <td>
+          .png
+        </td>
+      </tr>
+            <tr>
+        <td>
+          Custom sprite sheet: 
+        </td>
+        <td>
+          5 rows with 4 frames per row: idle, walk east, walk south, walk west, walk north
+        </td>
+      </tr>
+            <tr>
+        <td>
+          Custom normal image
+        </td>
+        <td>
+          Sprite sheet (or single image) for when the pet is not actively following anyone. If you do not upload a custom normal image, the idle sprites from the Custom sprite sheet are used
+        </td>
+      </tr>
+    </tbody>
+  <table>       
+<p></p>
    </details>
 
    <details>
     <summary>🚗 Kart and Furious</summary>   
-    | Parameter | Grid Dimension     | Description                |
-    | :-------- | :-------           | :------------------------- |
-    | `api_key` | `string`           | **Required**. Your API key |
+     <table>
+    <tbody>
+      <tr>
+        <td>
+          Element
+        </td>
+        <td>
+          Specifications
+        </td>
+      </tr>
+      <tr>
+        <td>
+          Grid (px)
+        </td>
+        <td>
+          512x32
+        </td>
+      </tr>
+      <tr>
+        <td>
+           Frames (n°)
+        </td>
+        <td>
+          16
+        </td>
+      </tr>
+    </tbody>
+  <table>       
     </details>
 
 <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
 
-## Tools
+## 🧰 Tools
 
 <p style="background-color: rgba(123, 237, 159, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 30px; position: relative"><span style="background-color: white; border: 5px solid rgba(123, 237, 159, 0.7); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">⚓</span>The tools usded for mainly editing the different sprites sheets so they can fit the Gather space requirements are all below 👇</p>
 
@@ -147,7 +222,7 @@ For the patient ones
 <div with="100%" style="border: 1px dashed purple; margin: 4em"></div>
 
 
-## Library
+## 📜 Library
 
 <p style="background-color: rgba(255, 165, 2, 0.2); border-radius: 20px; font-weight: bold; font-size: 14px; padding: 20px 40px; position: relative"><span style="background-color: white; border: 5px solid rgba(255, 165, 2, 0.9); border-radius: 50%; padding: 10px; position: absolute; left: -15px; top: -0.7em">🔖</span>Here, you can find all the essentials that made this Readme page possible 👇</p>
 
